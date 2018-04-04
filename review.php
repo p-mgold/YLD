@@ -12,7 +12,7 @@
 <!--//////////////////////testimony section starts here..//////////////////-->
 <center><h2>Reviews</h2></center>
 <div class="testicontainer">
-  <img src="ts1.jpg" alt="Avatar" style="width:90px; text-align:justify;" >
+  <img src="avater.jpeg" alt="Avatar" style="width:90px; text-align:justify;" >
   <!-- //////////////My Side Nav Starts here../////////////////////////////////-->
 
   <!-- //////////////My Side Nav Ends here../////////////////////////////////-->
