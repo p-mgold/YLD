@@ -1,8 +1,8 @@
  <?php
 
  $dbServername = "localhost";
- $dbUsername = "yldicanc_pgold";
- $dbPassword = "14gp1008";
+ $dbUsername = "root";
+ $dbPassword = "";
  $dbName = "yldicanc_loginsystem";
 
  $conn = mysqli_connect($dbServername, $dbUsername, $dbPassword, $dbName);
